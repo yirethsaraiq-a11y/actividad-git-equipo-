@@ -1,0 +1,36 @@
+METODOLOGÍA MOBILE-FIRST
+Esta metodologia tiene un enfoque de diseño y de desarrollo web en donde se busca 
+priorizar la creacion de la interfaz y la experiencia en los dispositos mobiles como 
+lo son los teleofno s intelignetez. Se busc aqubna mejora progresiva, donde las 
+funcionalidades y los estilos mas complejos se van viendo a travez de que tan grande 
+es la pantalla de donde se esta viendo.
+
+Fuente verificable: [https://developer.mozilla.org/es/docs/Glossary/Mobile_First]
+
+HTML SEMANTICO
+Esto consiste en hacer uso de las tetiquetas de HTML en las cuales se describe 
+claramente el significado de lo que contienen, lo que hace ruqe se pueda ver 
+bien sobre que es, dandole una estructura logica al documento, y da claridad a 
+la persona o sistema que vaya a leer el codigo.
+
+Fuente verificable:[https://www.w3.org/WAI/]
+
+GOOGLE LIGHTHOUSE
+Esto es una herramienta que esta automatizada y de codigo abierto integrada en las 
+herramientras de desarrollo de Google Chorme, si panel en donde se accede analiza el 
+DOM, que es (Modelo de Objeto de Documento) del sitio web utilizando la libreria 
+subyacente. Esto se evalua de una forma estricta, que es como el contraste de colores, 
+textos con imagenes, etiquetas y atributos ARIA, y se genera una puntuacion del 0 al 100, 
+y se reportan errores con sugerencias de codigo.
+
+Fuente verificable: https://developer.chrome.com/docs/lighthouse/accessibility/scoring
+
+WAVE (Web Accessibility Evaluation Tool)
+Esto es una herramienta gratis que que hace una evaluacion de accesibilidad web 
+desarrollada por WebAIM. Las otras herramientras solo arrojan reportes de texto, 
+WAVE se caracteriza porque inyecta iconos e indicadores visuales directamente sobre 
+la pagina web. Muestra los errores de forma grafica, alertas, caracteristicas 
+estructurales y problemas de contraste, facilita enormemente la revision humana y 
+educativa del codigo.
+
+Fuente verificable: https://wave.webaim.org/
